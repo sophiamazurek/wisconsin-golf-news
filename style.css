@@ -10,7 +10,7 @@ body{background: url(bg.jpg);font-family: 'Oswald', sans-serif;font-size: 15px;f
             .inner_main_menu ul li:nth-child(2){float: left;}    
             .inner_main_menu ul li:nth-child(3){float: left;}    
             .inner_main_menu ul li a{color: #262626; font-size: 20px; text-transform: uppercase;text-decoration: none; display: block;padding: 10px 20px;}    
-            .inner_main_menu ul li a:hover{color: #6FDA44}  
+            .inner_main_menu ul li a:hover{color: #727b49}  
             .inner_main_menu ul li ul{position: absolute; top: 40px; left: -9999999px; width: 200px;background: #262626; padding: 0;}  
             .inner_main_menu ul li:hover ul{left: 0px;}   
             .inner_main_menu ul li ul li{float: left;width: 100%;text-align: left;}  
@@ -19,7 +19,7 @@ body{background: url(bg.jpg);font-family: 'Oswald', sans-serif;font-size: 15px;f
             .inner_main_menu ul li ul li ul{top: 0; left: -999999px;}  
             .inner_main_menu ul li:hover ul li ul{top: 0; left: -999999px;}  
             .inner_main_menu ul li ul li:hover ul{top: 0; left: 200px;}  
-            .inner_main_menu ul li:hover a{color: #6FDA44}  
+            .inner_main_menu ul li:hover a{color: #727b49}  
             .inner_main_menu ul li:hover ul li a{color: #ffffff}  
             .inner_main_menu ul li ul li a:hover{color: #262626}  
             .inner_main_menu ul li ul li:hover a{background: #ddd; color: #262626;}  
